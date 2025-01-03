@@ -1,2 +1,11 @@
-http://ip:port
-http://user:pass@ip:port
+http://21773547-zone-custom-region-ID-sessid-3YJ7GtIb-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-oLyXndhq-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-6RBjy9B7-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-EhiGc5wr-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-hYjafTzH-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-DK65STwi-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-mpnv4FHF-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-5Y52zgl2-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-m7zRJnnt-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+http://21773547-zone-custom-region-ID-sessid-Y3Q75AC5-sessTime-120:r2r15Tk0@asg.360s5.com:3600
+
